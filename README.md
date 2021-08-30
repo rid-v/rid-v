@@ -1,7 +1,7 @@
 <h3> Hi there, I'm Riddhi👋 </h3>
-- 🌱 I’m currently learning everything LOL <br>
+- 🌱 I’m currently learning web development <br>
 - 👨‍💻 I’m the creator of <a href="https://iqofmachines.com/"> IQ of Machines </a>  <br>
-- 🥅 Goals for 2021: Learn web development <br>
+- 🥅 Goals for 2021: Learn advance topics <br>
 <!---
 rid-v/rid-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
